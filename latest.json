@@ -1,7 +1,7 @@
 {
-  "version": "1.6.1",
+  "version": "1.7.0",
   "date": "2026-09-27",
-  "notes": "- **Busca tus juegos como Razer Cortex:** con tu permiso, NivelGamer revisa todos tus discos y encuentra Steam y Counter-Strike 2 aunque estén instalados en otro lugar. También puedes elegir tú la carpeta de Steam o la del juego.\n- **Ajustes de gráficos más confiables:** si el juego vuelve a cambiar los gráficos al abrirse, NivelGamer te avisa y puedes marcar \"Proteger estos ajustes\" para que no los cambie más.\n- Ahora funciona aunque el archivo de configuración esté en solo lectura, y comprueba que los cambios quedaron guardados.\n- Minecraft: también encuentra las instancias de CurseForge, Prism, Modrinth y ATLauncher.\n- Nuevo botón \"Copiar diagnóstico\" para enviarnos qué pasa si algo no funciona.",
-  "zip": "v1.6.1/NivelGamer-Windows.zip",
-  "sig": "v1.6.1/NivelGamer.exe.sig"
+  "notes": "- **NivelGamer ahora se llama FPSMatrix.** Es el mismo programa con otro nombre: tus resultados, tu historial y tus ajustes se mantienen.",
+  "zip": "v1.7.0/NivelGamer-Windows.zip",
+  "sig": "v1.7.0/FPSMatrix.exe.sig"
 }

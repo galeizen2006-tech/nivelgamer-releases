@@ -1,4 +1,4 @@
-# NivelGamer
+# FPSMatrix
 
 Benchmark gratuito para Windows: mide tu PC, te da un puntaje con rango tipo ranking
 y te dice qué juegos puedes jugar y a cuántos FPS en calidad alta, media y baja.
@@ -7,16 +7,18 @@ reversibles de Windows.
 
 ## Descargar
 
-**[Descargar NivelGamer 1.6.1 para Windows](https://github.com/galeizen2006-tech/nivelgamer-releases/raw/main/v1.6.1/NivelGamer-Windows.zip)**
+**[Descargar FPSMatrix 1.7.0 para Windows](https://github.com/galeizen2006-tech/nivelgamer-releases/raw/main/v1.7.0/FPSMatrix-Windows.zip)**
 
-Descomprime el zip y abre `NivelGamer.exe`. Funciona en Windows 10 y 11.
+Descomprime el zip y abre `FPSMatrix.exe`. Funciona en Windows 10 y 11.
 
 Si Windows muestra "Windows protegió su PC", toca **Más información** y luego **Ejecutar de todas formas**.
 
 ## Actualizaciones
 
-NivelGamer revisa `latest.json` de este repositorio al abrirse y, si hay una versión nueva, te ofrece
+FPSMatrix revisa `latest.json` de este repositorio al abrirse y, si hay una versión nueva, te ofrece
 actualizarla con un clic. Cada versión va firmada y el programa rechaza cualquier archivo
 que no sea oficial (`NivelGamer.exe.sig`).
 
 Este repositorio solo contiene las versiones publicadas del programa.
+
+FPSMatrix antes se llamaba NivelGamer. Si ya lo tenías instalado, se actualiza solo y conserva tus resultados.
