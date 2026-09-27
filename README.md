@@ -1,0 +1,21 @@
+# NivelGamer
+
+Benchmark gratuito para Windows: mide tu PC, te da un puntaje con rango tipo ranking
+y te dice qué juegos puedes jugar y a cuántos FPS en calidad alta, media y baja.
+Incluye una guía para empezar en el gaming de PC, un asistente y optimizaciones
+reversibles de Windows.
+
+## Descargar
+
+Baja **NivelGamer-Windows.zip** desde la [última versión](https://github.com/galeizen2006-tech/nivelgamer-releases/releases/latest),
+descomprímelo y abre `NivelGamer.exe`. Funciona en Windows 10 y 11.
+
+Si Windows muestra "Windows protegió su PC", toca **Más información** y luego **Ejecutar de todas formas**.
+
+## Actualizaciones
+
+NivelGamer revisa este repositorio al abrirse y, si hay una versión nueva, te ofrece
+actualizarla con un clic. Cada versión va firmada y el programa rechaza cualquier archivo
+que no sea oficial (`NivelGamer.exe.sig`).
+
+Este repositorio solo contiene las versiones publicadas del programa.
