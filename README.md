@@ -17,7 +17,7 @@ Si Windows muestra "Windows protegió su PC", toca **Más información** y luego
 
 FPSMatrix revisa `latest.json` de este repositorio al abrirse y, si hay una versión nueva, te ofrece
 actualizarla con un clic. Cada versión va firmada y el programa rechaza cualquier archivo
-que no sea oficial (`NivelGamer.exe.sig`).
+que no sea oficial (`FPSMatrix.exe.sig`).
 
 Este repositorio solo contiene las versiones publicadas del programa.
 
