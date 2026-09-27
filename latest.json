@@ -1,7 +1,7 @@
 {
-  "version": "1.8.0",
+  "version": "1.9.0",
   "date": "2026-09-27",
-  "notes": "- **Nuevo: elige el idioma.** Español, English, Português y Русский, con el botón 🌐 arriba a la derecha.\n- La primera vez se usa el idioma de Windows y tu elección se guarda.\n- Todo está traducido, y el asistente entiende preguntas en los cuatro idiomas.",
-  "zip": "v1.8.0/NivelGamer-Windows.zip",
-  "sig": "v1.8.0/FPSMatrix.exe.sig"
+  "notes": "- **Nuevo: sección Tweaks** en Optimizar, con tweaks de Windows, estilo pro player, herramientas y guías pro.\n- Placa de video dedicada por juego, optimizaciones para juegos en ventana, limpiar la caché de sombreadores y más.\n- Preset **Competitivo** para CS2 y Fortnite, y 4:3 estirado en CS2.\n- Monitor a su máxima frecuencia con un clic y **Modo partida**.\n- Calculadora de sensibilidad, miras para copiar y guías de mouse, placa de video y audio.\n- Todo se puede deshacer.",
+  "zip": "v1.9.0/NivelGamer-Windows.zip",
+  "sig": "v1.9.0/FPSMatrix.exe.sig"
 }
