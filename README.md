@@ -7,14 +7,15 @@ reversibles de Windows.
 
 ## Descargar
 
-Baja **NivelGamer-Windows.zip** desde la [última versión](https://github.com/galeizen2006-tech/nivelgamer-releases/releases/latest),
-descomprímelo y abre `NivelGamer.exe`. Funciona en Windows 10 y 11.
+**[Descargar NivelGamer 1.5.0 para Windows](https://github.com/galeizen2006-tech/nivelgamer-releases/raw/main/v1.5.0/NivelGamer-Windows.zip)**
+
+Descomprime el zip y abre `NivelGamer.exe`. Funciona en Windows 10 y 11.
 
 Si Windows muestra "Windows protegió su PC", toca **Más información** y luego **Ejecutar de todas formas**.
 
 ## Actualizaciones
 
-NivelGamer revisa este repositorio al abrirse y, si hay una versión nueva, te ofrece
+NivelGamer revisa `latest.json` de este repositorio al abrirse y, si hay una versión nueva, te ofrece
 actualizarla con un clic. Cada versión va firmada y el programa rechaza cualquier archivo
 que no sea oficial (`NivelGamer.exe.sig`).
 

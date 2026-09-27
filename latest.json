@@ -1,0 +1,7 @@
+{
+  "version": "1.5.0",
+  "date": "2026-09-27",
+  "notes": "- **NivelGamer ahora es 100% gratis:** todos los juegos, todas las resoluciones, el asistente sin límite de preguntas y todas las optimizaciones.\n- **Actualizaciones automáticas:** cuando haya una versión nueva, NivelGamer te avisa y se actualiza con un clic.\n- Nueva pantalla de resultado con anillo de puntaje y rango.\n- Juegos con portada de color y nombres de hardware más claros.\n- Botón \"Copiar resultado\" para compartir tu puntaje.",
+  "zip": "v1.5.0/NivelGamer-Windows.zip",
+  "sig": "v1.5.0/NivelGamer.exe.sig"
+}
