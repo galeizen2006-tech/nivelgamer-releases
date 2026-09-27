@@ -7,7 +7,7 @@ reversibles de Windows.
 
 ## Descargar
 
-**[Descargar NivelGamer 1.6.0 para Windows](https://github.com/galeizen2006-tech/nivelgamer-releases/raw/main/v1.6.0/NivelGamer-Windows.zip)**
+**[Descargar NivelGamer 1.6.1 para Windows](https://github.com/galeizen2006-tech/nivelgamer-releases/raw/main/v1.6.1/NivelGamer-Windows.zip)**
 
 Descomprime el zip y abre `NivelGamer.exe`. Funciona en Windows 10 y 11.
 
