@@ -7,7 +7,7 @@ reversibles de Windows.
 
 ## Descargar
 
-**[Descargar FPSMatrix 1.9.0 para Windows](https://github.com/galeizen2006-tech/nivelgamer-releases/raw/main/v1.9.0/FPSMatrix-Windows.zip)**
+**[Descargar FPSMatrix 1.9.2 para Windows](https://github.com/galeizen2006-tech/nivelgamer-releases/raw/main/v1.9.2/FPSMatrix-Windows.zip)**
 
 Descomprime el zip y abre `FPSMatrix.exe`. Funciona en Windows 10 y 11.
 
@@ -22,3 +22,9 @@ que no sea oficial (`FPSMatrix.exe.sig`).
 Este repositorio solo contiene las versiones publicadas del programa.
 
 FPSMatrix antes se llamaba NivelGamer. Si ya lo tenías instalado, se actualiza solo y conserva tus resultados.
+
+## Componentes de terceros
+
+El sensor opcional de temperatura del procesador usa [PawnIO](https://github.com/namazso/PawnIO) de namazso
+(GPL v2 con excepción) y sus [módulos](https://github.com/namazso/PawnIO.Modules) (LGPL 2.1), incluidos sin modificar.
+Solo se instala si lo pides en Estadísticas. Las licencias están en la carpeta `licencias` del zip.

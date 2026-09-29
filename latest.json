@@ -1,7 +1,7 @@
 {
-  "version": "1.9.0",
-  "date": "2026-09-27",
-  "notes": "- **Nuevo: sección Tweaks** en Optimizar, con tweaks de Windows, estilo pro player, herramientas y guías pro.\n- Placa de video dedicada por juego, optimizaciones para juegos en ventana, limpiar la caché de sombreadores y más.\n- Preset **Competitivo** para CS2 y Fortnite, y 4:3 estirado en CS2.\n- Monitor a su máxima frecuencia con un clic y **Modo partida**.\n- Calculadora de sensibilidad, miras para copiar y guías de mouse, placa de video y audio.\n- Todo se puede deshacer.",
-  "zip": "v1.9.0/NivelGamer-Windows.zip",
-  "sig": "v1.9.0/FPSMatrix.exe.sig"
+  "version": "1.9.2",
+  "date": "2026-09-29",
+  "notes": "- **Nuevo: Estadísticas** en el inicio: RAM, canales, monitor, plan de energía, temperaturas en vivo y qué te está quitando FPS.\n- **Qué te limita**: si te frena la placa de video o el procesador, y qué conviene mejorar.\n- **Prueba de temperatura** de 5 o 10 minutos, con aviso de posible pasta térmica seca o polvo.\n- Temperatura aproximada en cada juego de la guía.\n- **Temperatura del procesador**: se lee de HWiNFO, LibreHardwareMonitor o Core Temp, o con el sensor opcional PawnIO (pide permiso de administrador; FACEIT puede bloquearlo).",
+  "zip": "v1.9.2/NivelGamer-Windows.zip",
+  "sig": "v1.9.2/FPSMatrix.exe.sig"
 }
