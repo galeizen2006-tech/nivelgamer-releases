@@ -7,7 +7,7 @@ reversibles de Windows.
 
 ## Descargar
 
-**[Descargar FPSMatrix 1.9.2 para Windows](https://github.com/galeizen2006-tech/nivelgamer-releases/raw/main/v1.9.2/FPSMatrix-Windows.zip)**
+**[Descargar FPSMatrix 1.9.3 para Windows](https://github.com/galeizen2006-tech/nivelgamer-releases/raw/main/v1.9.3/FPSMatrix-Windows.zip)**
 
 Descomprime el zip y abre `FPSMatrix.exe`. Funciona en Windows 10 y 11.
 

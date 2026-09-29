@@ -1,7 +1,7 @@
 {
-  "version": "1.9.2",
+  "version": "1.9.3",
   "date": "2026-09-29",
-  "notes": "- **Nuevo: Estadísticas** en el inicio: RAM, canales, monitor, plan de energía, temperaturas en vivo y qué te está quitando FPS.\n- **Qué te limita**: si te frena la placa de video o el procesador, y qué conviene mejorar.\n- **Prueba de temperatura** de 5 o 10 minutos, con aviso de posible pasta térmica seca o polvo.\n- Temperatura aproximada en cada juego de la guía.\n- **Temperatura del procesador**: se lee de HWiNFO, LibreHardwareMonitor o Core Temp, o con el sensor opcional PawnIO (pide permiso de administrador; FACEIT puede bloquearlo).",
-  "zip": "v1.9.2/NivelGamer-Windows.zip",
-  "sig": "v1.9.2/FPSMatrix.exe.sig"
+  "notes": "- **Nuevo: el celular como segunda pantalla.** Escaneas un QR y ves en el celular, en vivo, los FPS, las temperaturas y el uso de CPU, placa de video y RAM. Puedes permitir apagar la PC desde el celular, y hay una guía para prenderla con Wake-on-LAN.\n- **Inicio más ordenado**: resumen arriba y secciones numeradas.\n- **Asistente**: plan paso a paso para sacar más FPS en cada juego, chequeo antes de jugar y botón directo para el Modo rendimiento de Fortnite.\n- **Mejorar tu PC según tu presupuesto**: cuántos FPS ganarías con cada mejora.\n- **Modo partida** cierra de verdad los programas que te quitan FPS (te pregunta antes de cerrar los importantes).\n- Guías paso a paso (BIOS, placa de video, monitor, internet) en Guía para empezar.\n- Ajustes de gráficos para Apex, PUBG, Marvel Rivals y Rocket League.",
+  "zip": "v1.9.3/NivelGamer-Windows.zip",
+  "sig": "v1.9.3/FPSMatrix.exe.sig"
 }
