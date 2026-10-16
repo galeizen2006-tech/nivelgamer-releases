@@ -1,7 +1,7 @@
 {
-  "version": "1.9.3",
-  "date": "2026-09-29",
-  "notes": "- **Nuevo: el celular como segunda pantalla.** Escaneas un QR y ves en el celular, en vivo, los FPS, las temperaturas y el uso de CPU, placa de video y RAM. Puedes permitir apagar la PC desde el celular, y hay una guía para prenderla con Wake-on-LAN.\n- **Inicio más ordenado**: resumen arriba y secciones numeradas.\n- **Asistente**: plan paso a paso para sacar más FPS en cada juego, chequeo antes de jugar y botón directo para el Modo rendimiento de Fortnite.\n- **Mejorar tu PC según tu presupuesto**: cuántos FPS ganarías con cada mejora.\n- **Modo partida** cierra de verdad los programas que te quitan FPS (te pregunta antes de cerrar los importantes).\n- Guías paso a paso (BIOS, placa de video, monitor, internet) en Guía para empezar.\n- Ajustes de gráficos para Apex, PUBG, Marvel Rivals y Rocket League.",
-  "zip": "v1.9.3/NivelGamer-Windows.zip",
-  "sig": "v1.9.3/FPSMatrix.exe.sig"
+  "version": "1.9.4",
+  "date": "2026-10-16",
+  "notes": "- **Nuevo: mide los FPS reales de tus partidas.** Al terminar ves el promedio, los 1% y 0,1% más bajos y los tirones, comparados con la estimación (juegos con DirectX).\n- **Test de internet y ping a los servidores de tus juegos**: te dice en qué región jugar y en qué tramo sube el ping (tu casa, tu proveedor o lejos). También **DNS más rápido** (sin promesas de menos ping) y ajustes para tu internet.\n- **Optimizar más simple**: tres pasos, y las opciones avanzadas aparte. Nuevo **Optimizar Fortnite todo en 1**.\n- **Programas de inicio** y **apps de fondo**: apaga solo lo seguro, y se puede deshacer.\n- **Liberar espacio en el disco**: temporales, restos de Windows Update y papelera (tú eliges qué).\n- **Herramientas pro (gratis)**: DDU, RTSS, HWiNFO y más, con pasos para tu PC y solo si te sirven.\n- **Asistente** con 16 temas nuevos usando los datos de tu PC.\n- Avisos, driver recomendado y FPS de otras PCs con tu placa, desde el servidor de FPSMatrix (si no hay conexión, no se muestra nada).\n- Muchas correcciones: guardado más seguro de la configuración, Modo partida nunca fuerza el cierre de programas, FPS del celular arreglados y tabla de placas de video nueva.",
+  "zip": "v1.9.4/NivelGamer-Windows.zip",
+  "sig": "v1.9.4/FPSMatrix.exe.sig"
 }
