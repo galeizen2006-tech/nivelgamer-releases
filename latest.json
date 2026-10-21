@@ -1,7 +1,7 @@
 {
-  "version": "1.9.5",
-  "date": "2026-10-16",
-  "notes": "- **Optimizar por juego**: elige tu juego (con su foto) y adentro está todo lo que lo mejora: gráficos y presets, prioridad, internet, tus FPS medidos y lo de Windows para toda la PC.\n- **Nueva pestaña Periféricos**, con cualquier mouse o teclado (también los chinos sin programa): mouse 1:1, medir tu DPI real y el polling rate, test de doble clic, pasar la sensibilidad de un juego a otro, test de teclado, apagar el aviso de Shift, bloquear la tecla Windows, que Discord no baje el volumen del juego y test de drift del control.\n- **Modo partida** le baja la prioridad al navegador, OneDrive y similares (nunca a Discord, Spotify ni los launchers).\n- **¿Sirvió optimizar?**: compara tus FPS reales antes y después de cada cambio.\n- **Privacidad, telemetría y apps basura**: apaga la telemetría y desinstala las apps que vienen de fábrica (no da FPS, y lo decimos).\n- G-Sync / FreeSync también en juegos en ventana.\n- En ¿Qué juegos corro? cada juego tiene un botón \"Optimizar este juego\".",
-  "zip": "v1.9.5/NivelGamer-Windows.zip",
-  "sig": "v1.9.5/FPSMatrix.exe.sig"
+  "version": "1.9.6",
+  "date": "2026-10-21",
+  "notes": "- **🎯 Afinador automático por juego**: prueba solo las combinaciones de resolución y calidad con tu placa, procesador y memoria, y te deja la de mejor equilibrio FPS/calidad. Te dice tu resolución ideal para cada juego.\n- **Optimización completa adentro de cada juego** (Windows, placa, disco, red, BIOS y modo prueba), ahora para todos los juegos y no solo CS2.\n- **Limpiador de caché de sombreadores por juego**: borra la caché de un juego puntual cuando empieza a tironear.\n- **Recordatorio de mantenimiento** en Inicio, con un botón para limpiar temporales y caché del momento.\n- **Prioridad alta para todos tus juegos** de una sola vez, y modo prueba con ajustes avanzados reversibles.\n- Más detalle en el benchmark: latencia y 4K del disco, y lectura/escritura de la RAM por separado.\n- Nuevo permiso para **compartir datos** (Uso, FPS medidos y Errores), todo apagado por defecto: ayuda a mejorar la app con datos reales y respeta la política de privacidad.",
+  "zip": "v1.9.6/NivelGamer-Windows.zip",
+  "sig": "v1.9.6/FPSMatrix.exe.sig"
 }
