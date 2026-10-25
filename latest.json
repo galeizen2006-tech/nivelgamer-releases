@@ -1,7 +1,7 @@
 {
-  "version": "1.9.6",
-  "date": "2026-10-21",
-  "notes": "- **🎯 Afinador automático por juego**: prueba solo las combinaciones de resolución y calidad con tu placa, procesador y memoria, y te deja la de mejor equilibrio FPS/calidad. Te dice tu resolución ideal para cada juego.\n- **Optimización completa adentro de cada juego** (Windows, placa, disco, red, BIOS y modo prueba), ahora para todos los juegos y no solo CS2.\n- **Limpiador de caché de sombreadores por juego**: borra la caché de un juego puntual cuando empieza a tironear.\n- **Recordatorio de mantenimiento** en Inicio, con un botón para limpiar temporales y caché del momento.\n- **Prioridad alta para todos tus juegos** de una sola vez, y modo prueba con ajustes avanzados reversibles.\n- Más detalle en el benchmark: latencia y 4K del disco, y lectura/escritura de la RAM por separado.\n- Nuevo permiso para **compartir datos** (Uso, FPS medidos y Errores), todo apagado por defecto: ayuda a mejorar la app con datos reales y respeta la política de privacidad.",
-  "zip": "v1.9.6/NivelGamer-Windows.zip",
-  "sig": "v1.9.6/FPSMatrix.exe.sig"
+  "version": "1.9.7",
+  "date": "2026-10-25",
+  "notes": "- **Comunidad**: ahora podés seguirnos y sumarte desde el programa. Agregamos botones de **Instagram** (@fps_matrix) y **Discord** en el pie de página (en todas las pestañas) y en \"Acerca de\", para novedades, ayuda y hablar con otros jugadores.",
+  "zip": "v1.9.7/NivelGamer-Windows.zip",
+  "sig": "v1.9.7/FPSMatrix.exe.sig"
 }
